@@ -1,4 +1,6 @@
-### Test account for @cjfinnell
+### Test account
+
+For @cjfinnell
 
 <!--
 **test-cfin/test-cfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
